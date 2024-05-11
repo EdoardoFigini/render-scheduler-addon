@@ -11,7 +11,7 @@ Once it has been installed enable it and the `Render` tab should appear on the r
 
 The Render Scheduler tab is located in `3D Viewport` > `Sidebar` > `Render`  
 
-[Render Tab](/img/screenshot_1.png)
+![Render Tab](/img/screenshot_1.png)
 
 Here you can add new render configurations to the schedule or remove them.
 
